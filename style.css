@@ -1,0 +1,140 @@
+body{
+    background-color: #e4f9f5;
+}
+
+#myVideo {
+    height: 70%;
+    width: 100%;
+}
+
+.name{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 35%;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    color: white;
+}
+
+.my_position{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: white;
+}
+
+span{
+    text-decoration: underline;
+}
+
+#intro{
+    background-color: #e4f9f5;
+}
+
+.introduction{
+    background-color: #e4f9f5;
+    text-align: center;
+    padding: 100px;
+}
+
+.profile_pic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.introduction > h2{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #176B87;
+}
+
+.brief-intro{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.brief-intro > p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #176B87;
+}
+
+.skills{
+    text-align: center;
+}
+
+.skills > h2{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #176B87;
+    text-decoration: underline;
+    padding-bottom: 50px;
+}
+
+.some-skills{
+    display: block;
+}
+
+.skill-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+
+.skill-div img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.description{
+    text-align: left;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #176B87;
+}
+
+.description > h3{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.description > p{
+    font-size: 20px;
+}
+
+.contact-me{
+    padding-top: 200px;
+    text-align: center;
+}
+
+.contact-me > h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #176B87;
+    text-decoration: underline;
+}
+
+.contact-me > p{
+    font-family: 'Times New Roman', Times, serif;
+    color: #176B87;
+    font-size: 20px;
+}
+
+#foot{
+    padding-top: 150px;
+}
+
+.footer{
+    background-color: #637A9F;
+}
+
